@@ -1,0 +1,32 @@
+header{
+    background-color:darkblue;
+    color: antiquewhite;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 20px;
+    text-align: center;
+}
+body{
+    background-image:url("http://www.petsr4life.com/forum/uploads/monthly_2016_03/smallblue.png.8fdcb09ebc9dc3077df6bc4bc30d7b52.png");
+    opacity: 0.85;
+    }
+#output{
+    background-color: beige;
+    margin-left: 10%;
+    margin-right: 10%;
+    padding-left: 8%;
+    border-bottom-style: solid;
+    border-bottom-color: black;
+    border-bottom-width: 5px;
+}
+p{
+    font-size: 20px;
+    color: black;
+    border-top-style: solid;
+    border-top-color: black;
+    border-top-width: 5px;
+}
+h1{
+    text-align: center;
+    background-image: darkblue;
+
+}
